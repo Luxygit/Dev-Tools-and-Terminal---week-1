@@ -1,6 +1,6 @@
 # Dev-Tools-and-Terminal---week-1
 
-- What does the man command do? Type in man rm. How do you scroll and get out?
+-What does the man command do? Type in man rm. How do you scroll and get out?
   Shows the manual and help for the usage of every command. You scroll with the Up&Down Arrow Keys, and exit with by pressing "Q".
 
 -Look at the man page for ls. What does the -l flag do? What does the -a flag do?
